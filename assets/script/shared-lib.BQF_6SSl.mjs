@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.myuD9Iuq.mjs";function t(e,t){return{description:`a division of OneBckwrds. `,favicon:`https://framerusercontent.com/assets/EfOpJK9ZYY8UTPkIEVLcVHsOJQ.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/JguQTQVWzZTLTg4MimQ6VENLI.png`,title:`SOUND`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.BQF_6SSl.mjs.map

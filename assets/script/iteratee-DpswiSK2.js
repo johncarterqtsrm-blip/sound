@@ -1,0 +1,1 @@
+import{t as e}from"./identity-Dfvzj6n2.js";import{c as t,o as n,t as r}from"./matchesProperty-B7D-TrFy.js";function i(i){if(i==null)return e;switch(typeof i){case`function`:return i;case`object`:return Array.isArray(i)&&i.length===2?r(i[0],i[1]):n(i);case`string`:case`symbol`:case`number`:return t(i)}}export{i as t};

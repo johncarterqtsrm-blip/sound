@@ -1,0 +1,1 @@
+import{d as e}from"./cloneDeepWith-C9E4XYTu.js";function t(t){return e(t)}function n(e){let t=e?.constructor;return e===(typeof t==`function`?t.prototype:Object.prototype)}export{t as n,n as t};

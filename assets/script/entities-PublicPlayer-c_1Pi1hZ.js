@@ -1,0 +1,1 @@
+var e={showAlbumArt:!0,roundedCorners:!1,autoplay:!1,showVolumeControls:!0,showTrackProgress:!0,showStreamSelection:!0,showHistoryButton:!0,showRequestButton:!0,initialVolume:75,layout:`horizontal`,enablePopupPlayer:!1,continuousPlay:!1,customCss:``,primaryColor:void 0,backgroundColor:void 0,textColor:void 0};export{e as t};

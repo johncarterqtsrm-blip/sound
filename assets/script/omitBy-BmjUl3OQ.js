@@ -1,0 +1,1 @@
+import{r as e}from"./isArrayLike-ME-Y4ube.js";import{t}from"./iteratee-DpswiSK2.js";import{t as n}from"./identity-Bivv3cyh.js";import{n as r,t as i}from"./getSymbolsIn-rYOQziej.js";function a(a,o){if(a==null)return{};let s={},c=t(o??n),l=[...r(a),...i(a)];for(let t=0;t<l.length;t++){let n=e(l[t])?l[t]:l[t].toString(),r=a[n];c(r,n,a)||(s[n]=r)}return s}export{a as t};

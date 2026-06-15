@@ -1,0 +1,1 @@
+import{Bt as e,Et as t}from"./ApiInterfaces-_T_DTXQC.js";var n=Symbol();function r(t){e(n,t)}function i(){let e=t(n);return{vLightbox:t=>{t.addEventListener(`click`,n=>{if(e!==void 0){n.preventDefault();let r=t.getAttribute(`href`);r!==null&&e.value?.show(r)}})}}}export{r as n,i as t};

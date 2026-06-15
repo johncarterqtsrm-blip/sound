@@ -1,0 +1,1 @@
+function e(e){return typeof e==`symbol`||e instanceof Symbol}function t(t){return e(t)?NaN:Number(t)}function n(e){return Number.isSafeInteger(e)&&e>=0}function r(e){return e!=null&&typeof e!=`function`&&n(e.length)}export{t as n,e as r,r as t};
